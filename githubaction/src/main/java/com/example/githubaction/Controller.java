@@ -10,6 +10,6 @@ public class Controller {
         //lägger till massa cool kod
 
 
-        return a / b;
+        return a * b;
     }
 }
